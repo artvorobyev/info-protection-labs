@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@datastructures-js/binary-search-tree": "^4.3.0",
     "pngjs": "^6.0.0",
     "prompt-sync": "^4.2.0"
   }
